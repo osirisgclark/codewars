@@ -5,7 +5,7 @@ def _if(bool, func1=True, func2 =False):
 	else:
 		return func2()
 
-# era una mierda este ejemplo
+
 # Best:
 # def _if(bool, func1, func2):
 #   if bool:
